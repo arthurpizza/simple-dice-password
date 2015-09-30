@@ -11,12 +11,14 @@ My second roll was 2, 4, and 4.
 
 2 is the row, 4 is the letter J, and I rolled even so I made it uppercase.
 
+```
 1 : A B C D E F
 2 : G H I J K L
 3 : M N O P Q R
 4 : S T U V W X
 5 : Y Z 1 2 3 4
 6 : 5 6 7 8 9 0
+```
 
 **Optional**
 
