@@ -29,3 +29,6 @@ I did a test and generated this password:
 ```
 5JnX-Jy8N-gfJA-3fow
 ```
+
+It's just that easy.
+
